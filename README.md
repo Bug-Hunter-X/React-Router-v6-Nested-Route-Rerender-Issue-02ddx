@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes in React Router v6 where nested routes fail to re-render when their parent route changes. The bug and solution illustrate how to resolve this using the `useLocation` hook to force a re-render when necessary.
